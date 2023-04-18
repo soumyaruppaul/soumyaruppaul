@@ -30,4 +30,4 @@ I work as an Associate @ CX100.
 <code><img height="20" alt="c" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png"></code>
 <code><img height="20" alt="sql" src="https://w7.pngwing.com/pngs/167/148/png-transparent-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-logo.png"></code>
 
-![Soumyarup's GitHub stats](https://github-readme-stats.vercel.app/api?username=soumyarup-dev-sap&show_icons=true&theme=dark)
+![Soumyarup's GitHub stats](https://github-readme-stats.vercel.app/api?username=soumyaruppaul&show_icons=true&theme=dark)
