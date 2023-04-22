@@ -54,8 +54,6 @@ Overall, I am a collector and fan of all things pop culture, and I enjoy express
  
 * <code><img height="20" alt="sql" src="https://w7.pngwing.com/pngs/167/148/png-transparent-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-logo.png"></code>
 
-<a href="https://github.com/search?q=user%3ADenverCoder1+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
-
 ##
 
 ![Soumyarup's GitHub stats](https://github-readme-stats.vercel.app/api?username=soumyaruppaul&show_icons=true&theme=dark)
