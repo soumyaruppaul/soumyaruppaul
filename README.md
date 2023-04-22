@@ -4,9 +4,26 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=000000&width=435&lines=SAP+UI5%2FFiori%2FBTP+Application+Developer;SAP+Certified+C4C+Development+Associate;SAP+Certified+Citizen+Developer;Aspiring+Full-Stack+Developer)](https://git.io/typing-svg)
 
-I am Soumyarup Paul from Asansol, West Bengal (India).
+I was born in Asansol - The City of Brotherhood in West Bengal (India).
 
-I work as an Associate @ CX100.
+As an SAP Certified C4C Development Associate and SAP Certified Citizen Developer Associate with a passion for innovation, I excel in developing and customizing solutions that drive customer engagement and service excellence @ CX100. My skillset extends beyond C4C, as I have also honed my skills in creating dynamic and intuitive consumer-grade UI5 applications using SAP BTP for Fiori. 
+
+SAP Ecosystem TechStacks>>
+#SAP C4C (Sales/Service) - Cloud Application Studio
+#SAP BTP - SAP Web IDE, SAP UI5/Fiori (WorkZone), SAP Theme Designer, SAP AppGyver/Build Apps, SAP Cloud Analytics Platform, and SAP HANA
+
+Other TechStacks >>
+JS, JSON, XML, HTML5, CSS, SQL, Python
+
+I come with a proven track record of creating and modifying consumer-grade UI5/Fiori Applications, deploying them to the Fiori Cloud, and even designing custom themes for the cloud portal using the SAP UI theme designer. My expertise in the SAP Cloud Analytics Platform enables me to deliver actionable insights that drive business growth. 
+
+I am a continuous learner and always excited to take on new challenges, I am confident that my knowledge and experience will allow me to provide valuable contributions to any SAP project. 
+
+I have also participated in CX'Athon 2022, where I proposed and developed an AI-Enabled Application and Service Management using SAP AppGyver, SAP Process Automation, SAP Analytics Cloud, SAP BTP, Service Cloud, and HANA to target the product whitespace of SAP in a dedicated Computerized Machine Maintenance Software (CMMS) for Healthcare High-Value Equipment (HVE).
+
+In my free time, I indulge in a variety of passions including collecting stamps, toys, and comics. I am a musicaholic and movie buff, with a particular love for Sci-Fi and Fantasy genres. I also enjoy immersing myself in the world of video games, where I can escape and explore new virtual realms. 
+
+Overall, I am a collector and fan of all things pop culture, and I enjoy expressing my creativity through these hobbies.
 
 
 ## Skills and TechStacks
