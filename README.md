@@ -8,9 +8,8 @@ I was born in Asansol - The City of Brotherhood in West Bengal (India).
 
 As an SAP Certified C4C Development Associate and SAP Certified Citizen Developer Associate with a passion for innovation, I excel in developing and customizing solutions that drive customer engagement and service excellence @ CX100. My skillset extends beyond C4C, as I have also honed my skills in creating dynamic and intuitive consumer-grade UI5 applications using SAP BTP for Fiori. 
 
-SAP Ecosystem TechStacks>>
-#SAP C4C (Sales/Service) - Cloud Application Studio
-#SAP BTP - SAP Web IDE, SAP UI5/Fiori (WorkZone), SAP Theme Designer, SAP AppGyver/Build Apps, SAP Cloud Analytics Platform, and SAP HANA
+
+ 
 
 Other TechStacks >>
 JS, JSON, XML, HTML5, CSS, SQL, Python
@@ -26,25 +25,41 @@ In my free time, I indulge in a variety of passions including collecting stamps,
 Overall, I am a collector and fan of all things pop culture, and I enjoy expressing my creativity through these hobbies.
 
 
-## Skills and TechStacks
+## SAP Ecosystem Skills and TechStacks
 
-* <code><img height="20" alt="sap" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/SAP_2011_logo.svg/455px-SAP_2011_logo.svg.png"></code> Cloud for Customer
-
-
-* <code><img height="20" alt="sap" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/SAP_2011_logo.svg/455px-SAP_2011_logo.svg.png"></code> Build Applications and Automations
+* <code><img height="20" alt="sap" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/SAP_2011_logo.svg/455px-SAP_2011_logo.svg.png"></code> Cloud for Customer - Sales/Service Cloud and Cloud Application Studio
 
 
-* <code><img height="20" alt="sap" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/SAP_2011_logo.svg/455px-SAP_2011_logo.svg.png"></code> Fiori/UI5
+* <code><img height="20" alt="sap" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/SAP_2011_logo.svg/455px-SAP_2011_logo.svg.png"></code> Build Applications and Automations - SAP AppGyver/Build Apps and SAP Process Automation
 
 
-* <code><img height="20" alt="sap" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/SAP_2011_logo.svg/455px-SAP_2011_logo.svg.png"></code> Business Technology Platform
+* <code><img height="20" alt="sap" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/SAP_2011_logo.svg/455px-SAP_2011_logo.svg.png"></code> Fiori/UI5 - Web IDE and WorkZone/Fiori Cloud 
 
-* <code><img height="20" alt="xml" src="https://raw.githubusercontent.com/github/explore/05a6f4c574a32b6b2f04c2e589f6c82d9df46a5d/topics/xml/xml.png"></code>
-<code><img height="20" alt="html" src="https://w7.pngwing.com/pngs/390/229/png-transparent-logo-html5-brand-design-text-logo-number.png"></code>
-<code><img height="20" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" alt="c" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png"></code>
-<code><img height="20" alt="sql" src="https://w7.pngwing.com/pngs/167/148/png-transparent-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-logo.png"></code>
+
+* <code><img height="20" alt="sap" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/SAP_2011_logo.svg/455px-SAP_2011_logo.svg.png"></code> Business Technology Platform - Cloud Analytics Platform, and HANA
+
+## Other Skills and TechStacks
+
+* <code><img height="20" alt="MongoDB" src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png"></code> MongoDB
+
+* <code><img height="20" alt="Express.js" src="https://www.edureka.co/blog/wp-content/uploads/2019/07/express-logo.png"></code> Express.js
+
+* <img height="20" alt="React" src="https://w7.pngwing.com/pngs/403/269/png-transparent-react-react-native-logos-brands-in-colors-icon-thumbnail.png"></code> React
+
+* <img height="20" alt="Node.js" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png"></code> Node.js
+
+* <code><img height="20" alt="xml" src="https://raw.githubusercontent.com/github/explore/05a6f4c574a32b6b2f04c2e589f6c82d9df46a5d/topics/xml/xml.png"></code> XML
+
+* <code><img height="20" alt="html" src="https://w7.pngwing.com/pngs/390/229/png-transparent-logo-html5-brand-design-text-logo-number.png"></code> HTML
+
+* <code><img height="20" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> CSS
+
+* <code><img height="20" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+
+* <code><img height="20" alt="c" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png"></code>
+ 
+* <code><img height="20" alt="sql" src="https://w7.pngwing.com/pngs/167/148/png-transparent-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-logo.png"></code>
+
+##
 
 ![Soumyarup's GitHub stats](https://github-readme-stats.vercel.app/api?username=soumyaruppaul&show_icons=true&theme=dark)
