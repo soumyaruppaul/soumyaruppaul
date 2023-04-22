@@ -2,7 +2,7 @@
 
 # I Am Soumyarup Paul!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&width=435&lines=SAP+UI5%2FFiori%2FBTP+Application+Developer;SAP+Certified+C4C+Development+Associate;SAP+Certified+Citizen+Developer;Aspiring+Full-Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=000000&width=435&lines=SAP+UI5%2FFiori%2FBTP+Application+Developer;SAP+Certified+C4C+Development+Associate;SAP+Certified+Citizen+Developer;Aspiring+Full-Stack+Developer)](https://git.io/typing-svg)
 
 I am Soumyarup Paul from Asansol, West Bengal (India).
 
