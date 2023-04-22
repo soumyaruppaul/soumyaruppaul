@@ -8,12 +8,6 @@ I was born in Asansol - The City of Brotherhood in West Bengal (India).
 
 As an SAP Certified C4C Development Associate and SAP Certified Citizen Developer Associate with a passion for innovation, I excel in developing and customizing solutions that drive customer engagement and service excellence @ CX100. My skillset extends beyond C4C, as I have also honed my skills in creating dynamic and intuitive consumer-grade UI5 applications using SAP BTP for Fiori. 
 
-
- 
-
-Other TechStacks >>
-JS, JSON, XML, HTML5, CSS, SQL, Python
-
 I come with a proven track record of creating and modifying consumer-grade UI5/Fiori Applications, deploying them to the Fiori Cloud, and even designing custom themes for the cloud portal using the SAP UI theme designer. My expertise in the SAP Cloud Analytics Platform enables me to deliver actionable insights that drive business growth. 
 
 I am a continuous learner and always excited to take on new challenges, I am confident that my knowledge and experience will allow me to provide valuable contributions to any SAP project. 
@@ -59,6 +53,8 @@ Overall, I am a collector and fan of all things pop culture, and I enjoy express
 * <code><img height="20" alt="c" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png"></code>
  
 * <code><img height="20" alt="sql" src="https://w7.pngwing.com/pngs/167/148/png-transparent-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-logo.png"></code>
+
+<a href="https://github.com/search?q=user%3ADenverCoder1+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
 
 ##
 
