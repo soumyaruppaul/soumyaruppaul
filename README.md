@@ -54,6 +54,11 @@ Overall, I am a collector and fan of all things pop culture, and I enjoy express
  
 * <code><img height="20" alt="sql" src="https://w7.pngwing.com/pngs/167/148/png-transparent-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-logo.png"></code> SQL
 
+## Development Philosophies
+
+* AJAX
+* RAD
+
 ##
 
 ![Soumyarup's GitHub stats](https://github-readme-stats.vercel.app/api?username=soumyaruppaul&show_icons=true&theme=dark)
