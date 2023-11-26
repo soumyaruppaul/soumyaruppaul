@@ -2,7 +2,7 @@
 
 # I Am Soumyarup Paul!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Software+Engineer+%40+Incture;SAP+Certified+Fiori+Application+Developer;SAP+Certified+C4C+Development+Associate;SAP+Certified+Citizen+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=17&pause=1000&color=F7F7F7&random=false&width=435&lines=Software+Engineer+%40+Incture;SAP+Certified+Fiori+Application+Developer;SAP+Certified+C4C+Development+Associate;SAP+Certified+Citizen+Developer)](https://git.io/typing-svg)
 
 I was born in Asansol - The City of Brotherhood in West Bengal (India).
 
