@@ -8,7 +8,7 @@ I was born in Asansol - The City of Brotherhood in West Bengal (India).
 
 ### ✨ As a dedicated Software Engineer with expertise in SAP UI5, SAP Fiori, SAP BTP, SAP C4C, and SAP Build, I bring a unique blend of technical prowess and creative problem-solving to the table.
 
-###🎓 Certifications:
+### 🎓 Certifications:
 
 SAP Certified Development Associate - SAP Fiori Application Developer
 
