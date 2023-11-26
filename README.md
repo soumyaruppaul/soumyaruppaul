@@ -72,6 +72,8 @@ Overall, I am a collector and fan of all things pop culture, and I enjoy express
 
 * AJAX
 * RAD
+* BTP RAP
+* CAPM
 
 ##
 
