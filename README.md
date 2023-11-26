@@ -6,13 +6,25 @@
 
 I was born in Asansol - The City of Brotherhood in West Bengal (India).
 
-As an SAP Certified C4C Development Associate and SAP Certified Citizen Developer Associate with a passion for innovation, I excel in developing and customizing solutions that drive customer engagement and service excellence @ CX100. My skillset extends beyond C4C, as I have also honed my skills in creating dynamic and intuitive consumer-grade UI5 applications using SAP BTP for Fiori. 
+✨ As a dedicated Software Engineer with expertise in SAP UI5, SAP Fiori, SAP BTP, SAP C4C, and SAP Build, I bring a unique blend of technical prowess and creative problem-solving to the table.
 
-I come with a proven track record of creating and modifying consumer-grade UI5/Fiori Applications, deploying them to the Fiori Cloud, and even designing custom themes for the cloud portal using the SAP UI theme designer. My expertise in the SAP Cloud Analytics Platform enables me to deliver actionable insights that drive business growth. 
+🎓 Certifications:
 
-I am a continuous learner and always excited to take on new challenges, I am confident that my knowledge and experience will allow me to provide valuable contributions to any SAP project. 
+SAP Certified Development Associate - SAP Fiori Application Developer
+SAP Certified Citizen Developer Associate - SAP Build Low-code/No-code Applications and Automations
+SAP Certified Development Associate - SAP Cloud for Customer 2111
 
-I have also participated in CX'Athon 2022, where I proposed and developed an AI-Enabled Application and Service Management using SAP AppGyver, SAP Process Automation, SAP Analytics Cloud, SAP BTP, Service Cloud, and HANA to target the product whitespace of SAP in a dedicated Computerized Machine Maintenance Software (CMMS) for Healthcare High-Value Equipment (HVE).
+🤝 Collaboration:
+
+A collaborative team player with a passion for turning challenges into opportunities.
+Committed to staying at the forefront of technological advancements and continuously enhancing skill sets.
+
+📈 Driven by Innovation:
+
+Excited about leveraging technology to drive business innovation and enhance user experiences.
+Committed to delivering solutions that not only meet but exceed client expectations.
+
+Let's connect and explore how we can collaborate to elevate SAP solutions and create a lasting impact in the digital landscape!
 
 In my free time, I indulge in a variety of passions including collecting stamps, toys, and comics. I am a musicaholic and movie buff, with a particular love for Sci-Fi and Fantasy genres. I also enjoy immersing myself in the world of video games, where I can escape and explore new virtual realms. 
 
