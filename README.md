@@ -6,7 +6,7 @@
 
 I was born in Asansol - The City of Brotherhood in West Bengal (India).
 
-### ✨ As a dedicated Software Engineer with expertise in SAP UI5, SAP Fiori, SAP BTP, SAP C4C, and SAP Build, I bring a unique blend of technical prowess and creative problem-solving to the table.
+### ✨ ✨ As a dedicated Software Engineer (Frontend Developer) with a focus on frontend development in SAP UI5 and React, I bring a unique blend of technical prowess and creative problem-solving. 
 
 ### 🎓 Certifications:
 
@@ -26,7 +26,7 @@ Committed to staying at the forefront of technological advancements and continuo
 Excited about leveraging technology to drive business innovation and enhance user experiences.
 Committed to delivering solutions that not only meet but exceed client expectations.
 
-Let's connect and explore how we can collaborate to elevate SAP solutions and create a lasting impact in the digital landscape!
+Let's connect and explore how we can collaborate to elevate SAP and other Open-Source solutions to create a lasting impact in the digital landscape!
 
 In my free time, I indulge in a variety of passions including collecting stamps, toys, and comics. I am a musicaholic and movie buff, with a particular love for Sci-Fi and Fantasy genres. I also enjoy immersing myself in the world of video games, where I can escape and explore new virtual realms. 
 
