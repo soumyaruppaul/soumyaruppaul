@@ -41,7 +41,7 @@ Overall, I am a collector and fan of all things pop culture, and I enjoy express
 * <code><img height="20" alt="sap" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/SAP_2011_logo.svg/455px-SAP_2011_logo.svg.png"></code> Build Applications and Automations - SAP AppGyver/Build Apps and SAP Process Automation
 
 
-* <code><img height="20" alt="sap" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/SAP_2011_logo.svg/455px-SAP_2011_logo.svg.png"></code> Fiori/UI5 - Web IDE and WorkZone/Fiori Cloud 
+* <code><img height="20" alt="sap" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/SAP_2011_logo.svg/455px-SAP_2011_logo.svg.png"></code> Fiori/UI5 - Web IDE, SAP Business Application Studio and WorkZone/Fiori Cloud 
 
 
 * <code><img height="20" alt="sap" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/SAP_2011_logo.svg/455px-SAP_2011_logo.svg.png"></code> Business Technology Platform - Cloud Analytics Platform, and HANA
